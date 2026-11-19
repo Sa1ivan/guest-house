@@ -1,0 +1,38 @@
+[
+  {
+    "src": "/images/house/01.webp",
+    "width": 402,
+    "height": 268,
+    "alt": "Фасад гостевого дома и наружная лестница"
+  },
+  {
+    "src": "/images/house/02.webp",
+    "width": 256,
+    "height": 170,
+    "alt": "Столы и лавка под навесом"
+  },
+  {
+    "src": "/images/house/03.webp",
+    "width": 256,
+    "height": 170,
+    "alt": "Двор, места для отдыха и лестница"
+  },
+  {
+    "src": "/images/house/04.webp",
+    "width": 256,
+    "height": 170,
+    "alt": "Открытая общая кухня под навесом"
+  },
+  {
+    "src": "/images/house/05.webp",
+    "width": 256,
+    "height": 170,
+    "alt": "Вход на общую кухню со стороны двора"
+  },
+  {
+    "src": "/images/house/06.webp",
+    "width": 256,
+    "height": 170,
+    "alt": "Столы, холодильник и лавка на общей кухне"
+  }
+]

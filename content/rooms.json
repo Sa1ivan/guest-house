@@ -1,0 +1,725 @@
+[
+  {
+    "id": "standart-s-vidom-na-more",
+    "title": "Стандарт с видом на море",
+    "description": "Две отдельные кровати, кондиционер и балкон с видом на Чёрное море.",
+    "fullTitle": "Стандарт на двоих с кондиционером и видом на море",
+    "kind": "standard",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 13.5,
+    "bathroom": "в номере",
+    "views": [
+      "море"
+    ],
+    "beds": [
+      {
+        "type": "односпальная кровать",
+        "count": 2
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Балкон",
+      "Телевизор",
+      "Кондиционер",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/standart-s-vidom-na-more/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Две односпальные кровати в номере"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-more/02.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Телевизор, дверь и окно"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-more/03.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел в номере"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-more/04.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Вид на море через открытую дверь"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-more/05.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Вид на море на закате"
+      }
+    ]
+  },
+  {
+    "id": "standart-s-vidom-na-dvor",
+    "title": "Стандарт с видом во двор",
+    "description": "Номер для двоих с раздельными кроватями и кондиционером. Окна выходят во двор.",
+    "fullTitle": "Стандарт на двоих с кондиционером, во двор",
+    "kind": "standard",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 13.5,
+    "bathroom": "в номере",
+    "views": [
+      "внутренний двор"
+    ],
+    "beds": [
+      {
+        "type": "односпальная кровать",
+        "count": 2
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Телевизор",
+      "Кондиционер",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/standart-s-vidom-na-dvor/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Кровати, зеркало, телевизор и холодильник"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-dvor/02.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Две кровати, сдвинутые рядом"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-dvor/03.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Шкаф и входная дверь"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-dvor/04.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Зеркало, телевизор и небольшой холодильник"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-dvor/05.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел в номере"
+      }
+    ]
+  },
+  {
+    "id": "standart-s-dvuspalnoy-krovatyu",
+    "title": "Стандарт с двуспальной кроватью",
+    "description": "Двуспальная кровать, кондиционер и балкон с видом на горы.",
+    "fullTitle": "Стандарт на двоих с двуспальной кроватью и кондиционером",
+    "kind": "standard",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 14,
+    "bathroom": "в номере",
+    "views": [
+      "горы"
+    ],
+    "beds": [
+      {
+        "type": "двуспальная кровать",
+        "count": 1
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Балкон",
+      "Телевизор",
+      "Кондиционер",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/standart-s-dvuspalnoy-krovatyu/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Двуспальная кровать у окна"
+      },
+      {
+        "src": "/images/rooms/standart-s-dvuspalnoy-krovatyu/02.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Двери и шкаф в комнате"
+      },
+      {
+        "src": "/images/rooms/standart-s-dvuspalnoy-krovatyu/03.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел и открытый душ"
+      },
+      {
+        "src": "/images/rooms/standart-s-dvuspalnoy-krovatyu/04.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Настенный телевизор и небольшой холодильник"
+      }
+    ]
+  },
+  {
+    "id": "trehmestnyy-standart",
+    "title": "Трёхместный стандарт",
+    "description": "Двуспальная и односпальная кровати, кондиционер и балкон с видом на море.",
+    "fullTitle": "Стандарт на троих с кондиционером",
+    "kind": "standard",
+    "guests": 3,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 16,
+    "bathroom": "в номере",
+    "views": [
+      "море"
+    ],
+    "beds": [
+      {
+        "type": "двуспальная кровать",
+        "count": 1
+      },
+      {
+        "type": "односпальная кровать",
+        "count": 1
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Балкон",
+      "Телевизор",
+      "Кондиционер",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/trehmestnyy-standart/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Двуспальная кровать и кондиционер"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-standart/02.webp",
+        "width": 191,
+        "height": 170,
+        "alt": "Односпальная кровать, холодильник и шкаф"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-standart/03.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел в номере"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-standart/04.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Выход на балкон и вид в сторону моря"
+      }
+    ]
+  },
+  {
+    "id": "chetyrehmestnyy-s-konditsionerom",
+    "title": "Четырёхместный с кондиционером",
+    "description": "Просторный номер площадью 30 м² для семьи до четырёх человек на основных местах.",
+    "fullTitle": "Четырёхместный с кондиционером",
+    "kind": "standard",
+    "guests": 4,
+    "extraBeds": 1,
+    "extraBedKind": "раскладное кресло",
+    "rooms": 1,
+    "area": 30,
+    "bathroom": "в номере",
+    "views": [
+      "море",
+      "внутренний двор"
+    ],
+    "beds": [
+      {
+        "type": "двуспальная кровать",
+        "count": 1
+      },
+      {
+        "type": "односпальная кровать",
+        "count": 1
+      },
+      {
+        "type": "раскладное кресло",
+        "count": 2
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Телевизор",
+      "Кондиционер",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/chetyrehmestnyy-s-konditsionerom/01.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Зона отдыха с креслами, столом и телевизором"
+      },
+      {
+        "src": "/images/rooms/chetyrehmestnyy-s-konditsionerom/02.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Двуспальная и односпальная кровати"
+      },
+      {
+        "src": "/images/rooms/chetyrehmestnyy-s-konditsionerom/03.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Туалет в номере"
+      },
+      {
+        "src": "/images/rooms/chetyrehmestnyy-s-konditsionerom/04.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Раковина, зеркало и открытый душ"
+      },
+      {
+        "src": "/images/rooms/chetyrehmestnyy-s-konditsionerom/05.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Двуспальная кровать рядом с креслами"
+      }
+    ]
+  },
+  {
+    "id": "standart-u-morya-s-ventilyatorom",
+    "title": "Стандарт с вентилятором и видом на море",
+    "description": "Номер для двоих с большой кроватью, вентилятором и балконом с видом на море.",
+    "fullTitle": "Стандарт на двоих с вентилятором и видом на море",
+    "kind": "standard",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 13.5,
+    "bathroom": "в номере",
+    "views": [
+      "море"
+    ],
+    "beds": [
+      {
+        "type": "двуспальная кровать",
+        "count": 1
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Балкон",
+      "Телевизор",
+      "Вентилятор",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/standart-u-morya-s-ventilyatorom/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Двуспальная кровать в комнате"
+      },
+      {
+        "src": "/images/rooms/standart-u-morya-s-ventilyatorom/02.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел с раковиной"
+      },
+      {
+        "src": "/images/rooms/standart-u-morya-s-ventilyatorom/03.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Вид с балкона на посёлок, колесо обозрения и море"
+      },
+      {
+        "src": "/images/rooms/standart-u-morya-s-ventilyatorom/04.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Выход на балкон, телевизор и вентилятор"
+      }
+    ]
+  },
+  {
+    "id": "standart-s-vidom-na-gory",
+    "title": "Стандарт с видом на горы",
+    "description": "Двуспальная кровать, балкон с видом на горы и вентилятор.",
+    "fullTitle": "Стандарт на двоих с вентилятором и видом на горы",
+    "kind": "standard",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 16,
+    "bathroom": "в номере",
+    "views": [
+      "горы"
+    ],
+    "beds": [
+      {
+        "type": "двуспальная кровать",
+        "count": 1
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Балкон",
+      "Телевизор",
+      "Вентилятор",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/standart-s-vidom-na-gory/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Кровать, окно и вентилятор"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-gory/02.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Раковина и душ в санузле"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-gory/03.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Туалет и полотенцесушитель"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-gory/04.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Телевизор и холодильник у окна"
+      },
+      {
+        "src": "/images/rooms/standart-s-vidom-na-gory/05.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Дверь в санузел, зеркало и холодильник"
+      }
+    ]
+  },
+  {
+    "id": "dvuhkomnatnyy-standart",
+    "title": "Двухкомнатный стандарт",
+    "description": "Двуспальная кровать и диван в двух комнатах. При необходимости можно добавить две раскладушки.",
+    "fullTitle": "Двухкомнатный стандарт на четверых с вентилятором",
+    "kind": "standard",
+    "guests": 4,
+    "extraBeds": 2,
+    "extraBedKind": "раскладушка",
+    "rooms": 2,
+    "area": 30,
+    "bathroom": "в номере",
+    "views": [
+      "горы",
+      "море",
+      "внутренний двор"
+    ],
+    "beds": [
+      {
+        "type": "двуспальная кровать",
+        "count": 1
+      },
+      {
+        "type": "диван (2 места)",
+        "count": 1
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Балкон",
+      "Телевизор",
+      "Вентилятор",
+      "Холодильник"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/dvuhkomnatnyy-standart/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Диван, кресло и столик в гостиной"
+      },
+      {
+        "src": "/images/rooms/dvuhkomnatnyy-standart/02.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Комната со шкафом и окном"
+      },
+      {
+        "src": "/images/rooms/dvuhkomnatnyy-standart/03.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Стол у выхода на балкон"
+      },
+      {
+        "src": "/images/rooms/dvuhkomnatnyy-standart/04.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Вход в санузел и раковина"
+      },
+      {
+        "src": "/images/rooms/dvuhkomnatnyy-standart/05.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Туалет и полотенцесушитель"
+      },
+      {
+        "src": "/images/rooms/dvuhkomnatnyy-standart/06.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Спальня с кроватью и вентилятором"
+      }
+    ]
+  },
+  {
+    "id": "ekonom-s-vidom-na-more",
+    "title": "Эконом с видом на море",
+    "description": "Номер на двоих с отдельными кроватями. Ванная и туалет находятся на этаже.",
+    "fullTitle": "Эконом на двоих с видом на море",
+    "kind": "economy",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 15,
+    "bathroom": "на этаже",
+    "views": [
+      "море"
+    ],
+    "beds": [
+      {
+        "type": "односпальная кровать",
+        "count": 2
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Телевизор",
+      "Вентилятор"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/ekonom-s-vidom-na-more/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Две односпальные кровати в номере эконом"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-vidom-na-more/02.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Кровать, зеркало и столик"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-vidom-na-more/03.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Вид из окна в сторону моря"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-vidom-na-more/04.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел на этаже с душевой кабиной"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-vidom-na-more/05.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Раковина и зеркало в санузле на этаже"
+      }
+    ]
+  },
+  {
+    "id": "ekonom-s-dvuspalnoy-krovatyu",
+    "title": "Эконом с двуспальной кроватью",
+    "description": "Двуспальная кровать и окна во двор. Ванная и туалет находятся на этаже.",
+    "fullTitle": "Эконом на двоих с двуспальной кроватью",
+    "kind": "economy",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 14,
+    "bathroom": "на этаже",
+    "views": [
+      "внутренний двор"
+    ],
+    "beds": [
+      {
+        "type": "двуспальная кровать",
+        "count": 1
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Телевизор",
+      "Вентилятор"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/ekonom-s-dvuspalnoy-krovatyu/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Двуспальная кровать и прикроватная тумба"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-dvuspalnoy-krovatyu/02.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел на этаже с душевой кабиной"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-dvuspalnoy-krovatyu/03.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Кровать, телевизор и вентилятор"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-dvuspalnoy-krovatyu/04.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Раковина и зеркало в санузле на этаже"
+      }
+    ]
+  },
+  {
+    "id": "ekonom-s-razdelnymi-krovatyami",
+    "title": "Эконом с раздельными кроватями",
+    "description": "Две раздельные кровати и окна во двор. Ванная и туалет находятся на этаже.",
+    "fullTitle": "Эконом на двоих с раздельными кроватями",
+    "kind": "economy",
+    "guests": 2,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 14,
+    "bathroom": "на этаже",
+    "views": [
+      "внутренний двор"
+    ],
+    "beds": [
+      {
+        "type": "односпальная кровать",
+        "count": 2
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Телевизор",
+      "Вентилятор"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/ekonom-s-razdelnymi-krovatyami/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Две раздельные кровати и тумба"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-razdelnymi-krovatyami/02.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Односпальная кровать и телевизор"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-razdelnymi-krovatyami/03.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел на этаже с душевой кабиной"
+      },
+      {
+        "src": "/images/rooms/ekonom-s-razdelnymi-krovatyami/04.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Раковина и зеркало в санузле на этаже"
+      }
+    ]
+  },
+  {
+    "id": "trehmestnyy-ekonom",
+    "title": "Трёхместный эконом",
+    "description": "Три отдельные кровати. Ванная и туалет находятся на этаже.",
+    "fullTitle": "Эконом на троих",
+    "kind": "economy",
+    "guests": 3,
+    "extraBeds": 1,
+    "extraBedKind": "раскладушка",
+    "rooms": 1,
+    "area": 15,
+    "bathroom": "на этаже",
+    "views": [
+      "внутренний двор"
+    ],
+    "beds": [
+      {
+        "type": "односпальная кровать",
+        "count": 3
+      }
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "Телевизор",
+      "Вентилятор"
+    ],
+    "images": [
+      {
+        "src": "/images/rooms/trehmestnyy-ekonom/01.webp",
+        "width": 436,
+        "height": 291,
+        "alt": "Спальные места, телевизор и вентилятор"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-ekonom/02.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Вид из номера на соседние здания"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-ekonom/03.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Односпальная кровать и шкаф"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-ekonom/04.webp",
+        "width": 256,
+        "height": 170,
+        "alt": "Кровати, телевизор и вентилятор"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-ekonom/05.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Санузел на этаже с душевой кабиной"
+      },
+      {
+        "src": "/images/rooms/trehmestnyy-ekonom/06.webp",
+        "width": 127,
+        "height": 170,
+        "alt": "Раковина и зеркало в санузле на этаже"
+      }
+    ]
+  }
+]

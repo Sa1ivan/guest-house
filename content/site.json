@@ -1,0 +1,18 @@
+{
+  "public": false,
+  "url": "",
+  "phone": "",
+  "email": "",
+  "operator": {
+    "name": "",
+    "address": "",
+    "registration": ""
+  },
+  "registry": {
+    "number": "",
+    "url": ""
+  },
+  "dataRecipients": "",
+  "consentVersion": "2026-11-19",
+  "dataRetention": ""
+}
